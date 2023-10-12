@@ -1,3 +1,3 @@
 # collegedemo
 This is my first git repository
-author sathish
+author sathish (kumar)
